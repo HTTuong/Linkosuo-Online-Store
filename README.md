@@ -1,4 +1,4 @@
-# Food Ecommerce Website (Clone Linkosuo) - July, 2022
+# Food Ecommerce Website (Inspired by Linkosuo) - July, 2022
 
 
 ## Introduction
